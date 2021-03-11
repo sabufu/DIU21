@@ -75,7 +75,7 @@ angular.module("angular", [])
                 
 				Id: 1,
 				Name: "Nuria",
-				Photo: "woman.png",
+				Photo: "nuria.png",
 				Quote: "Los recuerdos nunca mueren",
 				Age: 48,
 				Occupation: "Escritora",
@@ -103,7 +103,7 @@ angular.module("angular", [])
 					{ Name: "Publicidad Tradicional (Ads)", Value: 4 },
 					{ Name: "Online & Social Media", Value: 2 },
 					{ Name: "Recomendaciones & sugerencias", Value: 3 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
 			}
 		];
