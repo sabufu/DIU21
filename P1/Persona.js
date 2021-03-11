@@ -34,8 +34,8 @@ angular.module("angular", [])
                 
 				Id: 0,
 				Name: "Sara",
-				Photo: "man.png",
-				Quote: "Carpe Diem",
+				Photo: "11.jpg",
+				Quote: "Wanderlust",
 				Age: 25,
 				Occupation: "Estudiante de un máster de energía nuclear",
 				Family: "Con pareja desde hace 1 año",
@@ -47,7 +47,7 @@ angular.module("angular", [])
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 4 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
 				], 
-				Goals: ["Terminar el master y encontrar un trabajo que le motive en un lugar en el que pueda vivir con su novio, descubrir mundo"],
+				Goals: ["Terminar el master y encontrar un trabajo que le motive en un lugar en el que pueda vivir con su novio", "Descubrir mundo"],
 				Frustrations: ["le gusta mucho planear viajes con sus amigos y su novio pero el master le ocupa mucho tiempo", "Le gustaría tener una mejor relación con su familia con la que apenas se habla"],
 				Bio: "Es de toledo y se fue a madrid a estudiar un grado de ingniería de la energía y actualmente esta estudiando un máster. Ha encontrado trabajos esporádicos como camarera. A su grupo de amigos y a su novio actual los conoció en la carrera y es con lo que queda siempre para salir y hacer viajes.",
 				Tech: [ 
