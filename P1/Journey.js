@@ -18,23 +18,23 @@
 
 
 angular.module("angular", [])
-	.controller("controller", ["$scope", function($scope) { 
-		$scope.Grupo_ID ="DIU1.ABCDEF";
+    .controller("controller", ["$scope", function($scope) { 
+        $scope.Grupo_ID ="DIU1.ABCDEF";
         $scope.Curso ="2020/21";
         $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
         
-		$scope.JourneyIndex = 0;
+        $scope.JourneyIndex = 0;
         
         $scope.Journeys = [
-			{		
+            {       
                 
                 /*************************************/
                 /**** PRIMER USER JOURNEY MAP  *******/
                 /*** Cambiar datos             *******/
                 /*************************************/
                 
-				Id: 0,
-				Name: "Sara",
+                Id: 0,
+                Name: "Sara",
                 Photo: "11.jpg",
     
                 /*** PASO #1: INSPIRACION ***/ 
@@ -43,7 +43,7 @@ angular.module("angular", [])
                 feel1: "5",
                 con1: "Poner de acuerdo a sus amigos y novio con los dias que pueden todos",
                 ima1: "cartoon-planning.png",
-				
+                
                 /*** PASO #2: DECICION ***/ 
                 goal2: "Busca en internet destinos a los que ir y ver que lugares pillan de camino",
                 touch2: "Ordenador",
@@ -92,54 +92,54 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+				Name: "Nuria",
+                Photo: "nuria.png",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
-                feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
+                goal1: "Quiere hacer un viaje con sus hijas",
+                touch1: "Libro",
+                feel1: "3",
+                con1: "Quiere ir a un lugar tranquilo, con buen tiempo, no le gustan las grandes ciudades",
                 ima1: "cartoon-going.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
-                feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
+                goal2: "Decide buscar posibles sitios en webs, se decide por RoadTrippers.",
+                touch2: "Ordenador",
+                feel2: "2",
+                con2: "No tiene claro el sitio dónde quiere ir.",
                 ima2: "cartoon-teamthinking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
-                feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
+                goal3: "Finalmente se decide por Lanzarote, le gusta la playa y a sus hijas le parecen estupendo el sitio",
+                touch3: "Ordenador(RoadTrippers)",
+                feel3: "4",
+                con3: "Está preocupada por el método de transporte, le tiene miedo a los aviones. Prefiere ir en barco",
                 ima3: "cartoon-phoningangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
-                feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
+                goal4: "Busca una oferta en hoteles y bungalows cerca de playa",
+                touch4: "Ordenador",
+                feel4: "3",
+                con4: "Encuentra un buen sitio, pero el avión es bastante más barato que el barco. No sabe que hacer",
                 ima4: "cartoon-phone-street.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
-                feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
+                goal5: "Reserva a través de la web, al final se decide por ir en barco, aunque le cueste más ",
+                touch5: "Ordenador",
+                feel5: "2",
+                con5: "Sus hijas no están del todo de acuerdo con su decisión, ya que ellas prefieren que gaste menos dinero",
                 ima5: "cartoon-phone-sitting.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
+                goal6: "Al final sus hijas entienden su miedo por los aviones y acceden a ir en barco. Consigue reservar",
                 touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
+                feel6: "4",
+                con6: "Les queda planificar que van a hacer allí durante el tiempo que estén",
                 ima6: "cartoon-PChard.png",
                 
                 
