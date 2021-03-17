@@ -34,54 +34,54 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 0,
-				Name: "Pedro",
-                Photo: "man.png",
+				Name: "Sara",
+                Photo: "11.jpg",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
-                touch1: "agenda",
-                feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
+                goal1: "quiere preparar un viaje con sus amigos y su novio para celebrar que termina el máster",
+                touch1: "Internet",
+                feel1: "5",
+                con1: "Poner de acuerdo a sus amigos y novio con los dias que pueden todos",
                 ima1: "cartoon-planning.png",
 				
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
-                touch2: "Movil",
-                feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
+                goal2: "Busca en internet destinos a los que ir y ver que lugares pillan de camino",
+                touch2: "Ordenador",
+                feel2: "4",
+                con2: "No termina de decidir a que sitios parar en la travesía de su viaje",
                 ima2: "cartoon-PCangry.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
+                goal3: "Decide ir hasta Lille que está al norte de Francia en varios coches con sus amigos y novio, donde pueden ver lugares muy interesantes por el camino",
+                touch3: "móvil",
                 feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
+                con3: "Preocupada por la cantidad de kilómetros de viaje y que el coche de uno de sus amigos es un poco viejo y no terminan de confiar",
                 ima3: "cartoon-phone.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
+                goal4: "Ha encontrado una página que le pone la ruta y calcula el precio de combustible que van a necesitar y también le recomienda sitios por la ruta elegida ",
                 touch4: "ordenador",
                 feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
+                con4: "Tiene que ver si desde el movil puede usarlo para guiarse cuando ya estén en el viaje porque hasta ahora solo habia mirado con el ordenador",
                 ima4: "cartoon-PCtyping.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
-                feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
+                goal5: "Encuentra una ruta que le gustan los lugares que puede visitar en el trayecto",
+                touch5: "móvil",
+                feel5: "5",
+                con5: "Llama a sus amigos para ver que les parece la ruta que le da la aplicación pero algunos se quejan de que el trayecto es muy largo",
                 ima5: "cartoon-phoning.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
-                touch6: "ordenador",
+                goal6: "Finalmente todos los amigos aceptan la ruta y deciden tranochar en campings que haya de camino",
+                touch6: "móvil",
                 feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
+                con6: "Les preocupa hacer el viaje sin reservas pero asi van disfrutando al momento del viaje según les apetezca en el momento",
                 ima6: "cartoon-resting.png",
                 
 			},
