@@ -1,12 +1,5 @@
-## DIU - Practica1, entregables
+Análisis competitivo:
 
+Las aplicaciones para organizar viajes seleccionadas han sido Roadtrippers, Inspirock, Tripit, Lambus y amovens:
+https://github.com/sabufu/DIU21/blob/master/P1/An%C3%A1lisis%20competitivo.png
 
-
-
-- Desk research: Análisis Competencia 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
-
-
-(valoración y conclusiones de esta etapa)
