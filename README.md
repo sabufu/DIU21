@@ -39,7 +39,13 @@ Las aplicaciones para organizar viajes seleccionadas han sido Roadtrippers, Insp
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Hemos elegido dos personas con diferentes vidas para comprobar como rinde la página antes dos puntos de vista distintos.
+
+![alt text](https://github.com/sabufu/DIU21/blob/master/P1/photos/nuria.PNG)
+
+![alt text](https://github.com/sabufu/DIU21/blob/master/P1/photos/sara.PNG)
+
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
