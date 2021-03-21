@@ -1,8 +1,8 @@
 # DIU21
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
-Grupo: DIU1_01AABB.  Curso: 2020/21 
-Updated: 8/2/2021
+Grupo: DIU1_1.PCMasterRace.  Curso: 2020/21 
+Updated: 21/3/2021
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Antonio Ángel Granados Luque     :octocat:     
+ * :bust_in_silhouette:       :octocat:
 
 ----- 
 
@@ -32,7 +32,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Las aplicaciones para organizar viajes seleccionadas han sido Roadtrippers, Inspirock, Tripit, Lambus y Amovens. El propósito de estas páginas es planificar un viaje, siendo Amovens una página más enfocada a cómo realizar el viaje en vez de dónde hacerlo. La mayoría te dan carta libre para que organices el viaje a tu gusto, eligiendo un puto de partida y otro de destino, o solamente buscando un sitio en concreto en el cual quedarse. Te dan opción de guardar puntos de interés como grandes parques o museos y sitios como restaurantes, alojamientos, etc. Hemos elegido RoadTrippers porque nos parece una página bastante completa pero carece de algunas caracteristicas en nuestra opinión importantes para una página de ese estilo. 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
