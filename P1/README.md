@@ -18,3 +18,13 @@ Las aplicaciones para organizar viajes seleccionadas han sido Roadtrippers, Insp
 ![alt text](https://github.com/sabufu/DIU21/blob/master/P1/photos/saraviaje.PNG)
 
 # 1.d Usability review:
+
+El enlace al excel: https://github.com/sabufu/DIU21/blob/master/P1/Usability-review-template.xlsx Enlace al pdf: https://github.com/sabufu/DIU21/blob/master/P1/Usability-review-template.pdf
+
+La aplicación tiene una puntuacion de 67 puntos, es moderada.
+
+La aplicación funciona correctamente. Se puede acceder sin tener una cuenta y en el caso de registro tiene un registro sencillo. Al entrar te pide destino inicial y destino final. Marca la ruta y te òne el dineroque vas a gastar en combustible, las horas y la distacia que se recorre. Encima tiene un pequeño menú para que dentro de la ruta indicada te indique lugares, restaurantes, hoteles y ocio nocturno recomendados.
+
+Los aspectos mas relevantes son:
+    1. A la hora de buscar un sitio en concreto tarda bastante en cargar.
+    2. La página está solamente en inglés no está disponible en más idiomas.
