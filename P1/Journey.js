@@ -19,9 +19,9 @@
 
 angular.module("angular", [])
     .controller("controller", ["$scope", function($scope) { 
-        $scope.Grupo_ID ="DIU1.ABCDEF";
+        $scope.Grupo_ID ="DIU1.PCMasterRace";
         $scope.Curso ="2020/21";
-        $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
+        $scope.Github_ID ="https://github.com/sabufu/DIU21";
         
         $scope.JourneyIndex = 0;
         
@@ -40,14 +40,14 @@ angular.module("angular", [])
                 /*** PASO #1: INSPIRACION ***/ 
                 goal1: "quiere preparar un viaje con sus amigos y su novio para celebrar que termina el máster",
                 touch1: "Internet",
-                feel1: "5",
+                feel1: "4",
                 con1: "Poner de acuerdo a sus amigos y novio con los dias que pueden todos",
                 ima1: "cartoon-planning.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet destinos a los que ir y ver que lugares pillan de camino",
+                goal2: "Busca en Roadtrippers destinos a los que ir y ver que lugares pillan de camino",
                 touch2: "Ordenador",
-                feel2: "4",
+                feel2: "2",
                 con2: "No termina de decidir a que sitios parar en la travesía de su viaje",
                 ima2: "cartoon-PCangry.png",
                 
@@ -61,7 +61,7 @@ angular.module("angular", [])
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Ha encontrado una página que le pone la ruta y calcula el precio de combustible que van a necesitar y también le recomienda sitios por la ruta elegida ",
+                goal4: "Se ha dado cuenta que la página le pone la ruta y calcula el precio de combustible que van a necesitar y también le recomienda sitios por la ruta elegida ",
                 touch4: "ordenador",
                 feel4: "4",
                 con4: "Tiene que ver si desde el movil puede usarlo para guiarse cuando ya estén en el viaje porque hasta ahora solo habia mirado con el ordenador",
@@ -71,7 +71,7 @@ angular.module("angular", [])
                 
                 goal5: "Encuentra una ruta que le gustan los lugares que puede visitar en el trayecto",
                 touch5: "móvil",
-                feel5: "5",
+                feel5: "4",
                 con5: "Llama a sus amigos para ver que les parece la ruta que le da la aplicación pero algunos se quejan de que el trayecto es muy largo",
                 ima5: "cartoon-phoning.png",
                 

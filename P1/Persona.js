@@ -47,9 +47,9 @@ angular.module("angular", [])
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 4 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
 				], 
-				Goals: ["Terminar el master y encontrar un trabajo que le motive en un lugar en el que pueda vivir con su novio", "Descubrir mundo"],
-				Frustrations: ["le gusta mucho planear viajes con sus amigos y su novio pero el master le ocupa mucho tiempo", "Le gustaría tener una mejor relación con su familia con la que apenas se habla"],
-				Bio: "Es de toledo y se fue a madrid a estudiar un grado de ingniería de la energía y actualmente esta estudiando un máster. Ha encontrado trabajos esporádicos como camarera. A su grupo de amigos y a su novio actual los conoció en la carrera y es con lo que queda siempre para salir y hacer viajes.",
+				Goals: ["Terminar el master y encontrar un trabajo que le motive en un lugar en el que pueda vivir con su novio", "Descubrir mundo", "Sacarse el C1 de inglés"],
+				Frustrations: ["Le gusta mucho planear viajes con sus amigos y su novio pero el master le ocupa mucho tiempo", "Le gustaría tener una mejor relación con su familia con la que apenas se habla","Va justa de dinero y le cuesta pedírselo a sus padres"],
+				Bio: "Es de toledo y se fue a madrid a estudiar un grado de ingniería de la energía y actualmente esta estudiando un máster. Su familia está en Toledo, sus padres y su hermano pequeño. No tiene una buena relación con ellos desde que murieron sus abuelos en un accidente de tráfico. Ha encontrado trabajos esporádicos como camarera. A su grupo de amigos y a su novio actual los conoció en la carrera y es con lo que queda siempre para salir y hacer viajes.",
 				Tech: [ 
 					{ Name: "TIC/Internet", Value: 2 },
 					{ Name: "Movil", Value: 3 },
