@@ -96,50 +96,54 @@ angular.module("angular", [])
                 Photo: "nuria.png",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere hacer un viaje con sus hijas",
-                touch1: "Libro",
-                feel1: "3",
-                con1: "Quiere ir a un lugar tranquilo, con buen tiempo, no le gustan las grandes ciudades",
-                ima1: "cartoon-going.png",
+                goal1: "Quiere organizar un viaje con sus hijas para disfrutar de unos días de relax con ellas",
+                touch1: "Internet",
+                feel1: "4",
+                con1: "Tiene que entregar a su editorial un adelanto de su nuevo libro, por lo que no puede irse más de una semana",
+                ima1: "cartoon-PChappy.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Decide buscar posibles sitios en webs, se decide por RoadTrippers.",
+                goal2: "Sus hijas le recomiendan que use RoadTrippers, que está muy bien para planear un viaje, \
+                        para establecer una ruta e ir marcando puntos de interés",
                 touch2: "Ordenador",
-                feel2: "2",
-                con2: "No tiene claro el sitio dónde quiere ir.",
-                ima2: "cartoon-teamthinking.png",
+                feel2: "1",
+                con2: "La página sólo está en Inglés, y al no tener mucho conocimiento del idioma tiene que estar \
+                        usando un traductor.",
+                ima2: "cartoon-PCangry.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Finalmente se decide por Lanzarote, le gusta la playa y a sus hijas le parecen estupendo el sitio",
-                touch3: "Ordenador(RoadTrippers)",
-                feel3: "4",
-                con3: "Está preocupada por el método de transporte, le tiene miedo a los aviones. Prefiere ir en barco",
-                ima3: "cartoon-phoningangry.png",
+                goal3: "Busca en guías de viaje de ejemplo de la página por si alguna le convence",
+                feel3: "2",
+                touch3: "ordenador (RoadTrippers)",
+                con3: "No tiene claro a que sitio ir, por lo que hace uso de las recomendaciones de la página",
+                ima3: "cartoon-thinking.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles y bungalows cerca de playa",
+                goal4: "Hay un recomendación de Lanzarote y recuerda que una amiga que estuvo allí hace tiempo le gustó la experiencia. \
+                        Se decide entonces por ir a Lanzarote.",
                 touch4: "Ordenador",
-                feel4: "3",
-                con4: "Encuentra un buen sitio, pero el avión es bastante más barato que el barco. No sabe que hacer",
-                ima4: "cartoon-phone-street.png",
+                feel4: "2",
+                con4: "Tiene que buscar medios de transporte, ya que la página no lo cubre",
+                ima4: "cartoon-PCangry.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a través de la web, al final se decide por ir en barco, aunque le cueste más ",
+                goal5: "Encuentra un avión barato y se dispone a hacer una reserva en un hotel",
                 touch5: "Ordenador",
-                feel5: "2",
-                con5: "Sus hijas no están del todo de acuerdo con su decisión, ya que ellas prefieren que gaste menos dinero",
-                ima5: "cartoon-phone-sitting.png",
+                feel5: "3",
+                con5: "Mediante las páginas a las que le remite la web, busca ofertas pero muchas \
+                       ya tienen reserva hecha",
+                ima5: "cartoon-PCangry.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Al final sus hijas entienden su miedo por los aviones y acceden a ir en barco. Consigue reservar",
+                goal6: "Al final consigue reservar un bungalow a 10 min de la playa",
                 touch6: "Ordenador (reserva OK)",
                 feel6: "4",
-                con6: "Les queda planificar que van a hacer allí durante el tiempo que estén",
+                con6: "No es lo que quería, pero al menos algo es algo",
                 ima6: "cartoon-PChard.png",
                 
                 

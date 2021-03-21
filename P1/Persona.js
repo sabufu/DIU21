@@ -17,9 +17,9 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-        $scope.Grupo_ID ="DIU1.ABCDEF";
+        $scope.Grupo_ID ="DIU1.PCMasterRace";
         $scope.Curso ="2020/21";
-        $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
+        $scope.Github_ID ="https://github.com/sabufu/DIU21";
         
 		$scope.PersonaIndex = 0;
 		$scope.Personas = [
@@ -77,7 +77,7 @@ angular.module("angular", [])
 				Name: "Nuria",
 				Photo: "nuria.png",
 				Quote: "Los recuerdos nunca mueren",
-				Age: 48,
+				Age: 59,
 				Occupation: "Escritora",
 				Family: "Viuda con dos hijas",
 				Location: "Oviedo (Asturias)",
@@ -88,9 +88,13 @@ angular.module("angular", [])
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 4 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				], 
-				Goals: ["Escribir con el mar de fondo", "Escribir una historia con sus hijas", "Escribir una decalogía"],
-				Frustrations: ["No creerse suficiente para sus hijas", "No tener tiempo suficiente para escribir todo lo que quiere"],
-				Bio: "Nació y se crió en Oviedo junto a sus padres, la pasión por la lectura y los libros nació cuando empezó el colegio. Su género favorito siempre ha sido la fantasía y la ciencia ficción. Hace un par de años perdió a su marido en un accidente de coche, y desde entonces prefiere pasar más tiempo a solas excepto cuando está con sus hijas, por eso ha decidido hacer un viaje con ellas.",
+				Goals: ["Escribir una historia con sus hijas", "Hacer colaboraciones con grandes escritores"],
+				Frustrations: ["En estos años no está ganando mucho dinero, teme tener que vender sus cosas \
+								para subsistir.", "No puede comprarse el coche de sus sueños por esa falta de dinero", "Debido a los plazos de sus libros no tiene mucho tiempo para pasar con su familia"],
+				Bio: "Nació y se crió en Oviedo junto a sus padres, la pasión por la lectura y los libros nació cuando empezó el colegio. Su género favorito siempre ha sido la fantasía y la ciencia ficción. Estudió el Grado en Lengua Española y sus literaturasen la Universidad de Asturias. A los 28 años publicó su primer bestseller con el que subió rápidamente \
+				      en el ránking de mejores escritores ed fantasía. A los 30 años se casó con un filólogo, con el cual tuvo sus dos hijas mellizas dos años después. \
+				      Después de esos acontecimientos siguió escribiendo libros pero ninguno de los que ha publicado ha tenido tanto éxito. \
+				      Hace un par de años perdió a su marido en un accidente de coche, y desde entonces prefiere pasar más tiempo a solas excepto cuando está con sus hijas, por eso ha decidido hacer un viaje con ellas.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 3 },
 					{ Name: "Mobile", Value: 4 },
