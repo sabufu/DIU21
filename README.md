@@ -50,8 +50,13 @@ Hemos elegido dos personas con diferentes vidas para comprobar como rinde la pá
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+Hemos escogido dos experiencias de usuario que puedan aportar algo distinto cada una, aunque las dos se basan en organizar un viaje.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+![alt text](https://github.com/sabufu/DIU21/blob/master/P1/photos/viajenuria.PNG)
+
+![alt text](https://github.com/sabufu/DIU21/blob/master/P1/photos/viajesara.PNG)
+
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
