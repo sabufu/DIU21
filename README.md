@@ -52,9 +52,9 @@ Hemos elegido dos personas con diferentes vidas para comprobar como rinde la pá
 
 Hemos escogido dos experiencias de usuario que puedan aportar algo distinto cada una, aunque las dos se basan en organizar un viaje.
 
-![alt text](https://github.com/sabufu/DIU21/blob/master/P1/photos/viajenuria.PNG)
+![alt text](https://github.com/sabufu/DIU21/blob/master/P1/photos/nuriaviaje.PNG)
 
-![alt text](https://github.com/sabufu/DIU21/blob/master/P1/photos/viajesara.PNG)
+![alt text](https://github.com/sabufu/DIU21/blob/master/P1/photos/saraviaje.PNG)
 
 
 
