@@ -4,6 +4,7 @@
 * Malla receptora de información 
 * https://github.com/sabufu/DIU21/blob/master/P2/capturegrid.JPG
 * Mapa de empatía
+* https://github.com/sabufu/DIU21/blob/master/P2/empathy.JPG
 * Point of View 
 
 
