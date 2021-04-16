@@ -6,6 +6,7 @@
 * Mapa de empatía
 * https://github.com/sabufu/DIU21/blob/master/P2/empathy.JPG
 * Point of View 
+* https://github.com/sabufu/DIU21/blob/master/P2/pointofview.JPG
 
 
 ### PROPUESTA DE VALOR
