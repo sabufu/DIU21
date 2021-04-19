@@ -28,7 +28,7 @@ Se añade opción de usuario Premium, que cuenta con las ventajas de poder hacer
 
 * Sitemap 
 * Labelling
-Término           | Significado
+Término           | Significado |
 | -------------   | ---------------- |
 | Página principal | Página de inicio del sitio web, contiene los elemento comunes a las demás páginas |
 
