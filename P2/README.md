@@ -2,9 +2,9 @@
 
 ### Ideación 
 * Malla receptora de información 
-* https://github.com/sabufu/DIU21/blob/master/P2/capturegrid.JPG
+<img src="https://github.com/sabufu/DIU21/blob/master/P2/capturegrid.JPG" alt="grid"/>
 * Mapa de empatía
-* https://github.com/sabufu/DIU21/blob/master/P2/empathy.JPG
+<img src="https://github.com/sabufu/DIU21/blob/master/P2/empathy.JPG" alt="empathy"/>
 * Point of View 
 * https://github.com/sabufu/DIU21/blob/master/P2/pointofview.JPG
 
