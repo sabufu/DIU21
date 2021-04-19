@@ -20,7 +20,7 @@ Se añade opción de usuario Premium, que cuenta con las ventajas de poder hacer
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
+<img src="https://github.com/sabufu/DIU21/blob/master/P2/Matriz%20de%20tareas%20usuarios.pdf" alt="grid"/>
 
 
 
