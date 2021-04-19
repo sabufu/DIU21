@@ -30,6 +30,40 @@ Se añade opción de usuario Premium, que cuenta con las ventajas de poder hacer
 | Término           | Significado |
 | -------------   | ---------------- |
 | Página principal | Página de inicio del sitio web, contiene los elemento comunes a las demás páginas |
+| Registrarse | Permite crearse una cuenta en la web |
+| Premium | Crea una cuenta de usuario Premium |
+| Normal | Crear una cuenta de usuario gratuito |
+| Idioma | Botón que permite cambiar el idioma de la página |
+| Log In | Permite iniciar sesión en la web |
+| Recordar contraseña | Permite recordar la contraseña de la cuenta, para no volverla a poner cada vez que entra |
+| Organizar viaje | Permite crear un nuevo viaje |
+| Añadir punto de partida y destino | Añade un lugar (ya sea ciudad, provincia o país) tanto de partida como de destino |
+| Elegir medio de transporte | Medio para hacer el viaje (coche, tren, barco, etc) |
+| Añadir puntos de interés | Permite añadir al viaje puntos como restaurantes, hoteles, zonas de ocio, zonas culturales, etc) |
+| Eliminar puntos de interés | Permite eliminar del viaje puntos de interés que hayamos añadido anteriormente |
+| Realizar reserva | Permite realizar reserva en caso de que el punto de interés sea un sitio para comer, alojamiento, actividad, etc) |
+| Guardar viaje | Guarda el viaje creado en la lista de tus viajes |
+| Consultar otros viajes | Permite comparar tu viaje con el de otros usuarios |
+| Valorar viaje | Permite dar una puntuación de 1 a 5 al viaje de otros usuarios |
+| Guardar viaje | Permite guardar el viaje de otro usuario a tus viajes |
+| Añadir trozo de ruta | Permite añadir un trozo de ruta del viaje de un usuario a tu viaje |
+| Añadir personas | Permite añadir personas a tu viaje, en este caso sería un viaje multiusuario (para usuarios premium) |
+| Mis viajes | Permite consultar los viajes que tiene guardados el usuario |
+| Borrar viaje | Permite eliminar un viaje que hayas guardado anteriormente |
+| Modificar viaje | Permite modificar cualquier viaje que hayas guardado |
+| Modificar punto de destino | Elimina el punto de destino inicial, y lo cambia por un nuevo punto de destino |
+| Cancelar reserva | Permite cancelar las reservas que hayamos hecho en ese viaje |
+| Compartir viaje | Ese viaje se vuelve público y cualquier usuario que acceda a tu perfil puede ver ese viaje y valorarlo |
+| Mi perfil | Accede a la información de tu cuenta |
+| Consultar mis notificaciones | Permite consultar las notificaciones, tanto de valoraciones que te hayan hecho como de invitaciones a formar parte de un viaje multiusuario en caso de que seas premium |
+| Aceptar | Acepta la invitación a un viaje multiusuario |
+| Rechazar | Rechazar la invitación a un viaje multiusuario |
+| Salir de mi sesión | Cierra sesión en la web |
+| Modificar datos de mi perfil | Permite modificar campos de la cuenta como el correo o la contraseña | 
+| Ayuda | Sección para resolver aquellas dudas sobre la página |
+| Contacto | Sección para contactar con el webmaster | 
+
+
 
 
 ### Prototipo Lo-FI Wireframe 
