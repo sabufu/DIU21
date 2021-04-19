@@ -18,7 +18,7 @@ La página web que vamos a desarrollar es una página web que trata de una plata
 Se añade opción de usuario Premium, que cuenta con las ventajas de poder hacer viajes multiusuario (varios usuarios pueden hacer un mismo viaje). Posibilidad de compartir el viaje con el resto de los integrantes del viaje y que cada usuario pueda modificar el viaje grupal añadiendole puntos de interés. Este usuario también cuenta con la posibilidad de comparar su viaje con el de otros usuarios y coger partes de esa ruta y añadirlas a la tuya.
 
        
-
+<img src="https://github.com/sabufu/DIU21/blob/master/P2/scope.JPG" alt="canvas"/>
 
 ### TASK ANALYSIS
 
