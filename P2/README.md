@@ -5,8 +5,6 @@
 <img src="https://github.com/sabufu/DIU21/blob/master/P2/capturegrid.JPG" alt="grid"/>
 * Mapa de empatía
 <img src="https://github.com/sabufu/DIU21/blob/master/P2/empathy.JPG" alt="empathy"/>
-* Point of View 
-* https://github.com/sabufu/DIU21/blob/master/P2/pointofview.JPG
 
 
 ### PROPUESTA DE VALOR
@@ -23,7 +21,7 @@ Se añade opción de usuario Premium, que cuenta con las ventajas de poder hacer
 ### TASK ANALYSIS
 
 * User Task Matrix 
-* User/Task flow
+
 
 
 ### ARQUITECTURA DE INFORMACIÓN
