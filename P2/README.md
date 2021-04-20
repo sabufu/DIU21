@@ -20,16 +20,16 @@ Se añade opción de usuario Premium, que cuenta con las ventajas de poder hacer
 
 ### TASK ANALYSIS
 
-Aqui va la matriz
+
 
 <img src="https://github.com/sabufu/DIU21/blob/master/P2/Matriz1.png" alt="canvas"/>
 <img src="https://github.com/sabufu/DIU21/blob/master/P2/Matriz2.png" alt="canvas"/>
 
 ### ARQUITECTURA DE INFORMACIÓN
 
+<img src="https://github.com/sabufu/DIU21/blob/master/P2/Página%20principal.png" alt="canvas"/>
 
 
-Aqui va el esquema
 
 | Término           | Significado |
 | -------------   | ---------------- |
