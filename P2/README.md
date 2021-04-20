@@ -95,4 +95,5 @@ Se añade opción de usuario Premium, que cuenta con las ventajas de poder hacer
 
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+
+
