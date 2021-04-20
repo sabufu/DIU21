@@ -72,6 +72,27 @@ Aqui va el esquema
 
 ### Prototipo Lo-FI Wireframe 
 
+<img src="https://github.com/sabufu/DIU21/blob/master/P2/homepage.JPG" alt="homepage"/>
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P2/login.JPG" alt="log in"/>
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P2/register.JPG" alt="register"/>
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P2/organizarviaje1.JPG" alt="organizar1"/>
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P2/organizarviaje2.JPG" alt="organizar2"/>
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P2/Captura%20de%20pantalla%20de%202021-04-20%2019-47-01.png" alt="mis viajes"/>
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P2/Captura%20de%20pantalla%20de%202021-04-20%2019-30-09.png" alt="mi perfil"/>
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P2/Captura%20de%20pantalla%20de%202021-04-20%2019-55-06.png" alt="ayuda"/>
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P2/Captura%20de%20pantalla%20de%202021-04-20%2020-29-14.png" alt="añadir trozo"/>
+
+
+
+
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
