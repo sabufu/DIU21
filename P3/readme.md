@@ -2,6 +2,9 @@
 
 ## Moodboard (diseño visual + logotipo)   
 
+Nuestro Moodboard recoge una serie de elementos visuales 
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P3/export_canvas_moodboard-210511_1113.png" alt="mb"/>
 
 ## Landing Page
 
