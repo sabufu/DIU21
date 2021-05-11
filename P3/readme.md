@@ -16,6 +16,11 @@ Nuestro logotipo es el siguiente:
 
 ## Landing Page
 
+Para nuestra Landing Page hemos querido atraer la atención de las personas con imágenes bonitas de paisajes hechas por personas que han utilizado nuestra web para realizar sus viajes. 
+
+
+<img src="hhttps://github.com/sabufu/DIU21/blob/master/P3/landing%20page%20(1).png" alt="lp"/>
+
 
 ## Guidelines
 Para la paleta de colores hemos elegido las tonalidades turquesa, morado, verde y gris. Ya que se obtienen de las imágenes inspiradoras que hemos utilizado. El gris sale del color de la carretera ya que gran parte de los viajes que se van a organizar en nuestra página se van a realizar por carretera. El morado se obtiene de las puestas de sol contrastando el cielo con las nubes y el mar. El verde con el color de la naturaleza, que inspira tranquilidad. Y el turquesa con el mar y la costa.
