@@ -19,7 +19,7 @@ Nuestro logotipo es el siguiente:
 Para nuestra Landing Page hemos querido atraer la atención de las personas con imágenes bonitas de paisajes hechas por personas que han utilizado nuestra web para realizar sus viajes. 
 
 
-<img src="hhttps://github.com/sabufu/DIU21/blob/master/P3/landing%20page%20(1).png" alt="lp"/>
+<img src="https://github.com/sabufu/DIU21/blob/master/P3/landing%20page%20(1).png" alt="lp"/>
 
 
 ## Guidelines
