@@ -17,6 +17,10 @@ Nuestro logotipo es el siguiente:
 ## Landing Page
 
 
+## Guidelines
+Para la paleta de colores hemos elegido las tonalidades turquesa, morado, verde y gris. Ya que se obtienen de las imágenes inspiradoras que hemos utilizado. El gris sale del color de la carretera ya que gran parte de los viajes que se van a organizar en nuestra página se van a realizar por carretera. El morado se obtiene de las puestas de sol contrastando el cielo con las nubes y el mar. El verde con el color de la naturaleza, que inspira tranquilidad. Y el turquesa con el mar y la costa.
+
+Para la tipografía hemos elegido Calibri  ya que es una de las más utilizadas en muchos sitios web y es una fuente que contrasta bien.
 
 
 ## Mockup: LAYOUT HI-FI
