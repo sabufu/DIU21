@@ -4,7 +4,7 @@
 
 Nuestro Moodboard recoge una serie de elementos visuales 
 
-<img src="P3/export_canvas_moodboard-210511_1124.png" alt="mb"/>
+<img src="https://github.com/sabufu/DIU21/blob/master/P3/export_canvas_moodboard-210511_1124.png" alt="mb"/>
 
 ## Landing Page
 
