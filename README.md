@@ -5,18 +5,20 @@ Grupo: DIU1_1.PCMasterRace.  Curso: 2020/21
 Updated: 21/3/2021
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Alltrip
 
-Descripción: 
+Descripción: Propuesta de Página Web basada en la organización y planificación de viajes según los intereses del usuario, con valoraciones hacia viajes de otros usuarios.
 
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P3/logopequeño.png" alt="logo"/>
+
 
 Miembros
  * :bust_in_silhouette:   Antonio Ángel Granados Luque     :octocat:     
- * :bust_in_silhouette:       :octocat:
+ * :bust_in_silhouette:   Samuel Burgueo Fuentes :octocat:
 
 ----- 
 
