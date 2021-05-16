@@ -48,66 +48,70 @@ Hemos propuesto dos personas ficticias que puedan ser los usuarios interesados e
 
 Hemos escogido dos experiencias de usuario que puedan aportar algo distinto cada una, aunque las dos se basan en organizar un viaje.
 
-[*Sara*](https://github.com/sabufu/DIU21/blob/master/P1/photos/saraviaje.PNG): Busca un plan para salir por la zona.
+[*Sara*](https://github.com/sabufu/DIU21/blob/master/P1/photos/saraviaje.PNG): Busca un viaje con su novio y amigos para pasárselo bien.
 
-[*Nuria*](https://github.com/sabufu/DIU21/blob/master/P1/photos/nuriaviaje.PNG): Trata de usar su local para hacer eventos.
+[*Nuria*](https://github.com/sabufu/DIU21/blob/master/P1/photos/nuriaviaje.PNG): Quiere hacer un viaje tranquilo con sus hijas.
 
 
 ![Método UX](img/usabilityReview.png) Usability Review
 ----
 ![Consulta los resultados aquí](https://github.com/sabufu/DIU21/blob/master/P1/Usability-review-template.pdf) 
 
-En general, la experiencia es muy buena, es una página muy completa y bastante user-friendly. Uno de los aspectos negativos es que solo está en ingles, y algunas veces no es muy intuitivo el proceso de realizar reservas.
+En general, la experiencia es muy buena, es una página muy completa y bastante user-friendly. Uno de los aspectos negativos es que solo está en inglés, y algunas veces no es muy intuitivo el proceso de realizar reservas.
 
 
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png)  Feedback Capture Grid / EMpathy map / POV
 ----
+A partir de lo que se ha visto en la práctica anterior podemos hacernos a la idea de retroalimentaciones que pueden ayudar a crear una nueva propuesta de app.
 
+[>> Consulta la matriz de captura de ideas aquí](https://github.com/sabufu/DIU21/blob/master/P2/capturegrid.JPG)
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+[>> Consulta el mapa de empatía](https://github.com/sabufu/DIU21/blob/master/P2/empathy.JPG)
   
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+#### Sobre la propuesta de valor [>> Más en detalle aquí ](https://github.com/sabufu/DIU21/tree/master/P2#propuesta-de-valor)
 
+La web se basa en poder organizar un viaje en función de tus gustos, podiendo añadir los puntos que encuentres en el mapa o mediante una búsqueda por nombre. La web debe visualizar información sobre los viajes que tiene cada usuario. También se puede valorar los viajes de los usuarios. Por un pago de 3€, puedes convertirte en usuario premium, y aparte de tener más opciones extra, puedes hacer viajes colaborativos, es decir, invitar gente a tu viaje para poder hacerlo entre todos.  También se da la posibilidad de realizar reservas directamente desde la página.
 
-
-![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
+![Método UX](img/ScopeCanvas.png)  ScopeCanvas
 ----
->>> Propuesta de valor 
+[>> Aquí puedes consultar el ScopeCanvas](https://github.com/sabufu/DIU21/blob/master/P2/scope.JPG)
 
-![Método UX](img/Sitemap.png) 2.b Tasks analysis 
+![Método UX](img/Sitemap.png)  Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+#### Matriz de usuarios y grupos
+Con la propuesta de valor dada, hemos pensado en qué grupos de usuarios usarían la app y las tareas que harían cada uno, junto con su prioridad.
+
+[>> Consulta la matriz de usuarios y grupos *aquí* P1](https://github.com/sabufu/DIU21/blob/master/P2/Matriz1.png)
+[>> Consulta la matriz de usuarios y grupos *aquí* P2](https://github.com/sabufu/DIU21/blob/master/P2/Matriz2.png)
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+![Método UX](img/labelling.png)  IA: Sitemap + Labelling 
 ----
 
+#### Sitemap
 
->>> Identificar términos para diálogo con usuario  
+El sitemap representa el flujo de la información de la aplicación, mostrando las secciones y su funcionalidad.
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+[>> Mira el sitemap aquí](https://github.com/sabufu/DIU21/blob/master/P2/Página%20principal.png)
+
+#### Labelling
+
+El Sitemap contiene las acciones que luego se usarán para etiquetar las acciones de la aplicación. Pero... ¿qué significan? ¿Es lo mismo crear un grupo que un evento? ¿Qué es eso del *Login*? Por ello, se ha hecho una tabla con los términos que se han usado en el Sitemap y se les asigna un significado con respecto a la funcionalidad de la propuesta de aplicación.
+
+[>> Consulta la tabla de labelling aquí](https://github.com/Sabufu/DIU21/tree/master/P2#arquitectura-de-información)
 
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
+![Método UX](img/Wireframes.png)  Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Una vez hecho lo anterior, podríamos dar una idea visual de cómo se vería la propuesta de aplicación. Eso sí, sin mucho lujo de detalles.
+Los wireframes están realizados usando fluidui.com
 
+[>> Mira el mockup por aquí](https://github.com/sabufu/DIU21/tree/master/P3#)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
