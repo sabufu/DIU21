@@ -36,13 +36,11 @@ Las aplicaciones para organizar viajes seleccionadas han sido Roadtrippers, Insp
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-Hemos propuesto dos personas ficticias que puedan ser los usuarios interesados en nuestra web
- 
+Hemos propuesto dos personas ficticias que puedan ser los usuarios interesados en nuestra web. Clica en el nombre para acceder a su perfil.
 
-![alt text](https://github.com/sabufu/DIU21/blob/master/P1/photos/nuria.PNG)
+[*Sara*](https://github.com/sabufu/DIU21/blob/master/P1/photos/sara.PNG)
 
-![alt text](https://github.com/sabufu/DIU21/blob/master/P1/photos/sara.PNG)
-
+[*Nuria*](https://github.com/sabufu/DIU21/blob/master/P1/photos/nuria.PNG)
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
