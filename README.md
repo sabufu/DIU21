@@ -19,9 +19,7 @@ Miembros
 
 ----- 
 
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
+En esta práctica estudiaremos un caso de plataforma de turismo y realizaremos una propuesta para su diseño Web.
 
 
 # Proceso de Diseño 
@@ -38,7 +36,8 @@ Las aplicaciones para organizar viajes seleccionadas han sido Roadtrippers, Insp
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-Hemos elegido dos personas con diferentes vidas para comprobar como rinde la página antes dos puntos de vista distintos.
+Hemos propuesto dos personas ficticias que puedan ser los usuarios interesados en nuestra web
+ 
 
 ![alt text](https://github.com/sabufu/DIU21/blob/master/P1/photos/nuria.PNG)
 
@@ -57,13 +56,9 @@ Hemos escogido dos experiencias de usuario que puedan aportar algo distinto cada
 
 
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Consulta los resultados aquí](https://github.com/sabufu/DIU21/blob/master/P1/Usability-review-template.pdf) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+En general, la experiencia es muy buena, es una página muy completa y bastante user-friendly. Uno de los aspectos negativos es que solo está en ingles, y algunas veces no es muy intuitivo el proceso de realizar reservas.
 
 
 ## Paso 2. UX Design  
