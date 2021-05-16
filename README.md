@@ -26,14 +26,14 @@ En esta práctica estudiaremos un caso de plataforma de turismo y realizaremos u
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+![Método UX](img/Competitive.png) Competitive Analysis
 -----
 
 Las aplicaciones para organizar viajes seleccionadas han sido Roadtrippers, Inspirock, Tripit, Lambus y Amovens. El propósito de estas páginas es planificar un viaje, siendo Amovens una página más enfocada a cómo realizar el viaje en vez de dónde hacerlo. La mayoría te dan carta libre para que organices el viaje a tu gusto, eligiendo un puto de partida y otro de destino, o solamente buscando un sitio en concreto en el cual quedarse. Te dan opción de guardar puntos de interés como grandes parques o museos y sitios como restaurantes, alojamientos, etc. Hemos elegido RoadTrippers porque nos parece una página bastante completa pero carece de algunas caracteristicas en nuestra opinión importantes para una página de ese estilo. 
 
 >> Consulta la tabla de comparación [aquí](https://github.com/sabufu/DIU21/tree/master/P1#análisis-competitivo).
 
-![Método UX](img/Persona.png) 1.b Persona
+![Método UX](img/Persona.png) Persona
 -----
 
 Hemos propuesto dos personas ficticias que puedan ser los usuarios interesados en nuestra web. Clica en el nombre para acceder a su perfil.
@@ -43,19 +43,20 @@ Hemos propuesto dos personas ficticias que puedan ser los usuarios interesados e
 [*Nuria*](https://github.com/sabufu/DIU21/blob/master/P1/photos/nuria.PNG)
 
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+![Método UX](img/JourneyMap.png) User Journey Map
 ----
 
 Hemos escogido dos experiencias de usuario que puedan aportar algo distinto cada una, aunque las dos se basan en organizar un viaje.
 
-![alt text](https://github.com/sabufu/DIU21/blob/master/P1/photos/nuriaviaje.PNG)
+[*Sara*](https://github.com/sabufu/DIU21/blob/master/P1/photos/saraviaje.PNG): Busca un plan para salir por la zona.
 
-![alt text](https://github.com/sabufu/DIU21/blob/master/P1/photos/saraviaje.PNG)
+[*Nuria*](https://github.com/sabufu/DIU21/blob/master/P1/photos/nuriaviaje.PNG): Trata de usar su local para hacer eventos.
 
 
-
-![Consulta los resultados aquí](https://github.com/sabufu/DIU21/blob/master/P1/Usability-review-template.pdf) 1.d Usability Review
+![Método UX](img/usabilityReview.png) Usability Review
 ----
+![Consulta los resultados aquí](https://github.com/sabufu/DIU21/blob/master/P1/Usability-review-template.pdf) 
+
 En general, la experiencia es muy buena, es una página muy completa y bastante user-friendly. Uno de los aspectos negativos es que solo está en ingles, y algunas veces no es muy intuitivo el proceso de realizar reservas.
 
 
