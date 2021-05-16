@@ -4,12 +4,9 @@ Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo)
 Grupo: DIU1_1.PCMasterRace.  Curso: 2020/21 
 Updated: 21/3/2021
 
-Proyecto: 
->>> Alltrip
+Proyecto: Alltrip
 
 Descripción: Propuesta de Página Web basada en la organización y planificación de viajes según los intereses del usuario, con valoraciones hacia viajes de otros usuarios.
-
->>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
 
