@@ -62,7 +62,7 @@ Página para valorar viajes de otros usuarios
 
 <img src="https://github.com/sabufu/DIU21/blob/master/P3/Viajes%20de%20otros%20usuarios.png" alt="rating"/>
 
-Página para seleccionar el medio de transporte
+Página para seleccionar el medio de transporte. Es una ventana emergente de la página de inicio
 
 <img src="https://github.com/sabufu/DIU21/blob/master/P3/Selecciona%20un%20medio%20de%20transport.png" alt="transport"/>
 
