@@ -30,6 +30,49 @@ Para la tipografía hemos elegido Calibri  ya que es una de las más utilizadas 
 
 ## Mockup: LAYOUT HI-FI
 
+Para la realización del layout hemos utilizado la herramienta Adobe XD. Nos ha facilitado bastante la tarea ya que permite poder tener varias mesas de trabajo al mismo tiempo por lo que pueden trabajar varias personas a la vez en distintos layout, por lo que el feedback es constante. 
+
+Primero mostramos los layouts para iniciar sesión y registrarse.
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P3/Iniciar%20sesión.png" alt="login"/>
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P3/Registrarse.png" alt="register"/>
+
+A continuación están las páginas de ayuda, elección de idioma
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P3/Ayuda.png" alt="help"/>
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P3/Idioma.png" alt="language"/>
+
+Las siguientes páginas son las páginas de inicio en la web, con la diferencia de que una es para los usuarios que no se han logeado y la otra para los que si se han logeado.
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P3/Página%20de%20inicio.png" alt="start"/>
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P3/Pagina%20de%20inicio%20logeado.png" alt="loginstart"/>
+
+Esta página es la página de un viaje en concreto, con un mapa con iconos que representan los lugares de interés como puntos de ocio, para comer, transporte público, establecimientos para hospedaje, etc. 
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P3/Viaje.png" alt="trip"/>
+
+Página de mis viajes
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P3/Mis%20viajes.png" alt="mytrips"/>
+
+Página para valorar viajes de otros usuarios
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P3/Viajes%20de%20otros%20usuarios.png" alt="rating"/>
+
+Página para seleccionar el medio de transporte
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P3/Selecciona%20un%20medio%20de%20transport.png" alt="transport"/>
+
+Página de mi perfil
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P3/Mi%20perfil.png" alt="profile"/>
+
+
+
+
 
 ## Documentación: Publicación del Case Study
 
