@@ -30,8 +30,6 @@ Para la tipografía hemos elegido Calibri  ya que es una de las más utilizadas 
 
 ## Mockup: LAYOUT HI-FI
 
-Para la realización del layout hemos utilizado la herramienta Adobe XD. Nos ha facilitado bastante la tarea ya que permite poder tener varias mesas de trabajo al mismo tiempo por lo que pueden trabajar varias personas a la vez en distintos layout, por lo que el feedback es constante. 
-
 Primero mostramos los layouts para iniciar sesión y registrarse.
 
 <img src="https://github.com/sabufu/DIU21/blob/master/P3/Iniciar%20sesión.png" alt="login"/>
@@ -76,6 +74,8 @@ Página de mi perfil
 
 ## Documentación: Publicación del Case Study
 
+Con esta práctica hemos aprendido a que realizar el diseño de una web no es una cosa que se deba tomar a la ligera, sino que es mucho mejor realizar una serie de pasos previos para facilitar todo el trabajo. Hemos conocido y aplicado técnicas de diseño que son bastante útiles. Para la realización del layout hemos utilizado la herramienta Adobe XD. Nos ha facilitado bastante la tarea ya que permite poder tener varias mesas de trabajo al mismo tiempo por lo que pueden trabajar varias personas a la vez en distintos layout, por lo que el feedback es constante. 
 
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+
+
  
