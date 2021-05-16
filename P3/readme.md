@@ -2,7 +2,7 @@
 
 ## Moodboard (diseño visual + logotipo)   
 
-Nuestro Moodboard recoge una serie de elementos visuales
+Nuestro Moodboard recoge una serie de elementos visuales que encajan con nuestra app, que sea atractiva a la vista y fácil de usar, de cara a captar nuevos usuarios. 
 
 
 <img src="https://github.com/sabufu/DIU21/blob/master/P3/export_canvas_moodboard-210511_1124.png" alt="mb"/>
