@@ -28,7 +28,7 @@ Para la paleta de colores hemos elegido las tonalidades turquesa, morado, verde 
 Para la tipografía hemos elegido Calibri  ya que es una de las más utilizadas en muchos sitios web y es una fuente que contrasta bien.
 
 
-## Mockup: LAYOUT HI-FI
+## Mockup:
 
 Primero mostramos los layouts para iniciar sesión y registrarse.
 
