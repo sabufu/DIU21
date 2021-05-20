@@ -139,7 +139,7 @@ Hemos cogido una paleta de colores que se amolda a nuestras imágenes inspirador
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Después de haber realizado lo anterior, procedemos a realizar el mockup para nuestra app. Hemos utilizado la herramienta Adobe XD. Puedes ver los bocetos [>>aquí](https://github.com/sabufu/DIU21/tree/master/P3#Mockup:-LAYOUT-HI-FI)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
