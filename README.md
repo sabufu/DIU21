@@ -118,24 +118,23 @@ Los wireframes están realizados usando fluidui.com
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
-
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Un moodboard sirve para recoger elementos visuales que encajen con tu idea, tales como imágenes inspiradoras, paletas de colores, fuentes de escritura, etc.
+Hemos utilizado la herramienta Milanote para realizar dicho moodboard, que puedes consultar [>> aquí](https://github.com/sabufu/DIU21/blob/master/P3/export_canvas_moodboard-210511_1124.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
-----
 
+La Landing Page es una página promocional cuyo objetivo es atraer la atención de los usuarios y que se interesen por tu app. Suelen tener elementos como un título, subtítulo, algún elemento gráfico de refuerzo como imágenes, y algunos beneficios de tu app.
 
->>> Plantear Landing Page 
+[>>Puedes echarle un vistazo a nuestra Landing Page aquí](https://github.com/sabufu/DIU21/blob/master/P3/landing2.jpg)
+ 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+En lo respecto a las guidelines, hemos usado el patrón de diseño en grid (columnas). La página se divide en columnas y nos permite manejar mejor las proporciones de los elementos. 
+
+Hemos cogido una paleta de colores que se amolda a nuestras imágenes inspiradoras de viajes, y una tipografía adecuada para el diseño web. Puedes ver más detalles [>> aquí](https://github.com/sabufu/DIU21/tree/master/P3#guidelines)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
