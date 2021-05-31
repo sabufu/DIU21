@@ -21,11 +21,15 @@ En la aplicación de la ruta del jamón podrás reservar diferentes tours para h
 
 ## User Testing
 
-	Describe la experiencia 1
 
-	Describe la experiencia 2
-
-	Describe la experiencia 3
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+| Andrea  | M / 21   | Fotógrafa  | Media       | Introvertido | Web/Móvil       | B
+| Ana  | M / 23   | Estudiante  | Alta       | Timido       | Web/Móvil        | A 
+| Roberto  | H / 22   | Estudiante     | Alta        | Emocional    | Web/Móvil      | B 
+| Antonio  | H / 55   | Comercial  | Baja       | Racional     | Web/Móvil        | A 
+| Luis  | H / 47   | Trabajador  | Media       | Racional     | Web/Móvil        | B
+| Andrea  | H / 43   | Empleada hogar  | Baja       | Racional     | Móvil        | A
 
 
 ## Conclusiones
