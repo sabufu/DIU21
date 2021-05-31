@@ -166,10 +166,10 @@ Hemos seleccionado 6 personas y hemos repartido 3 al proyecto A y 3 al proyecto 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | M / 21   | Fotógrafa  | Media       | Introvertido | Web/Móvil       | B
+| Andrea  | M / 21   | Fotógrafa  | Media       | Introvertido | Web/Móvil       | B
 | Ana  | M / 23   | Estudiante  | Alta       | Timido       | Web/Móvil        | A 
 | Roberto  | H / 22   | Estudiante     | Alta        | Emocional    | Web/Móvil      | B 
-| User4's name  | H / 55   | Comercial  | Baja       | Racional     | Web/Móvil        | A 
+| Antonio  | H / 55   | Comercial  | Baja       | Racional     | Web/Móvil        | A 
 | Luis  | H / 47   | Trabajador  | Media       | Racional     | Web/Móvil        | B
 | Andrea  | H / 43   | Empleada hogar  | Baja       | Racional     | Móvil        | A
 
@@ -181,7 +181,6 @@ Hemos seleccionado 6 personas y hemos repartido 3 al proyecto A y 3 al proyecto 
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
