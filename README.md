@@ -158,7 +158,7 @@ Después de haber realizado lo anterior, procedemos a realizar el mockup para nu
 
 
 [Kortatu](https://github.com/kartu09/DIUKortatu)
-Kortatu es un grupo que ha hecho una aplicación móvil sobre una apliacación para hacer rutas del jamón en Granada con tours predefinidos y con opciones de valoraciones a cada ruta.
+Kortatu es un grupo que ha hecho una aplicación para hacer rutas del jamón en Granada con tours predefinidos y con opciones de valoraciones a cada ruta.
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
@@ -186,7 +186,10 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+>>Reporte de usabilidad para práctica B (la de los compañeros).
+
+Este es el reporte de usabilidad para el equipo Kortatu[-->](https://github.com/sabufu/DIU21/blob/master/P4/P4_UsabReport_%7BKortatu%7D_doneby_%7BDIU1%7D_%7BPCMasterRace%7D.pdf)
+
 
 
 ## Conclusión final / Valoración de las prácticas
