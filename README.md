@@ -157,14 +157,12 @@ Después de haber realizado lo anterior, procedemos a realizar el mockup para nu
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
+[Kortatu](https://github.com/kartu09/DIUKortatu)
+Kortatu es un grupo que ha hecho una aplicación móvil sobre una apliacación para hacer rutas del jamón en Granada con tours predefinidos y con opciones de valoraciones a cada ruta.
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+Hemos seleccionado 6 personas y hemos repartido 3 al proyecto A y 3 al proyecto B. Se han repartido de forma aleatoria pero cuidando que no siempre el mismo tipo de usuario evalúe al mismo grupo. 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
