@@ -195,7 +195,7 @@ Este es el reporte de usabilidad para el equipo Kortatu[-->](https://github.com/
 
 Con el desarrollo de estas prácticas noos hemos enriquecido valorando al usuario al que va dirigido la apliacación teniendo en cuenta distintos tipos  de roles y necesidades, cuidando el diseño en todos sus aspectos tanto colores concentración de información y muchas más cosas a tener en cuenta. Al diseñar antes de implementar podemos tener en cuenta al usuario desde mucho antes y en los tipos que puedan utilizar la apliación a desarrollar.
 
-También hemos aprendido técnicas de diseño tanto para apps como para páginas web y a cómo se realizan los mockups.
+También hemos aprendido técnicas de diseño tanto para apps como para páginas web y a cómo se realizan los mockups. Todo el proceso de realización de los flujos de información que quiere tener nuestra app así como el labelling que tendrá.
 
 Hemos obtenido una experiencia positiva con este modelo de prácticas porque hemos fortalecido aptitudes como el trabajo en equipo, comunicación y coordinación que son muy importantes.
 
