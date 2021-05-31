@@ -20,7 +20,7 @@ En la aplicación de la ruta del jamón podrás reservar diferentes tours para h
  
 
 ## User Testing
-
+Hemos seleccionado 6 usuarios, 3 jóvenes y 3 más mayores en general se manejan bien con las tecnologías exceptuando un par de usuarios que tienen menor conocimiento ya por ser mayores o por el uso general que le dan a las tecnologías en sus vidas. Las 6 personas han sido personas reales que se pueden ajustar a distintos roles y gracias a ello dan una valoración más realista.
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
