@@ -168,10 +168,12 @@ Después de haber realizado lo anterior, procedemos a realizar el mockup para nu
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| User1's name  | M / 21   | Fotógrafa  | Media       | Introvertido | Web/Móvil       | B
+| Ana  | M / 23   | Estudiante  | Alta       | Timido       | Web/Móvil        | A 
+| Roberto  | H / 22   | Estudiante     | Alta        | Emocional    | Web/Móvil      | B 
+| User4's name  | H / 55   | Comercial  | Baja       | Racional     | Web/Móvil        | A 
+| Luis  | H / 47   | Trabajador  | Media       | Racional     | Web/Móvil        | B
+| Andrea  | H / 43   | Empleada hogar  | Baja       | Racional     | Móvil        | A
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
