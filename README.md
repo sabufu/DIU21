@@ -153,14 +153,14 @@ Después de haber realizado lo anterior, procedemos a realizar el mockup para nu
 ## Paso 4. Evaluación 
 
 
-![Método UX](img/ABtesting.png) Caso asignado
+![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
 
 [Kortatu](https://github.com/kartu09/DIUKortatu)
 Kortatu es un grupo que ha hecho una aplicación para hacer rutas del jamón en Granada con tours predefinidos y con opciones de valoraciones a cada ruta.
 
-![Método UX](img/usability-testing.png)  User Testing
+![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 Hemos seleccionado 6 personas y hemos repartido 3 al proyecto A y 3 al proyecto B. Se han repartido de forma aleatoria pero cuidando que no siempre el mismo tipo de usuario evalúe al mismo grupo. 
 
@@ -174,7 +174,7 @@ Hemos seleccionado 6 personas y hemos repartido 3 al proyecto A y 3 al proyecto 
 | Andrea  | H / 43   | Empleada hogar  | Baja       | Racional     | Móvil        | A
 
 
-![Método UX](img/Survey.png). Cuestionario SUS
+![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
@@ -183,17 +183,20 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 
-![Método UX](img/usability-report.png) Usability Report
+![Método UX](img/usability-report.png) 4.d Usability Report
 ----
+
+>>Reporte de usabilidad para práctica B (la de los compañeros).
+
 Este es el reporte de usabilidad para el equipo Kortatu[-->](https://github.com/sabufu/DIU21/blob/master/P4/P4_UsabReport_%7BKortatu%7D_doneby_%7BDIU1%7D_%7BPCMasterRace%7D.pdf)
 
 
 
 ## Conclusión final / Valoración de las prácticas
 
+Con el desarrollo de estas prácticas noos hemos enriquecido valorando al usuario al que va dirigido la apliacación teniendo en cuenta distintos tipos  de roles y necesidades, cuidando el diseño en todos sus aspectos tanto colores concentración de información y muchas más cosas a tener en cuenta. Al diseñar antes de implementar podemos tener en cuenta al usuario desde mucho antes y en los tipos que puedan utilizar la apliación a desarrollar.
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
+Hemos obtenido una experiencia positiva con este modelo de prácticas porque hemos fortalecido aptitudes como el trabajo en equipo, comunicación y coordinación que son muy importantes.
 
 
 
