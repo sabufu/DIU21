@@ -7,10 +7,15 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 Descripcion y hoja de valoración.    
 
+<img src="https://github.com/sabufu/DIU21/blob/master/P4/SUS_PCMasterRace.PNG" />
+
 
 ## Caso 2
 
 Descripcion y hoja de valoración.  
+
+
+<img src="https://github.com/sabufu/DIU21/blob/master/P4/SUS_kortatu.PNG" />
 
 
 ## Caso 3
